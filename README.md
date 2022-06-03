@@ -1,8 +1,6 @@
 ## Hey there 👋
 
-My name is Gabriel and I'm a Brazilian 🇧🇷 web developer, currently working as a FullStack JavaScript engineer at [Clevertech](https://www.linkedin.com/company/clevertech/)
-
-I have experience with the following languages and Tools
+My name is Gabriel and I'm a Brazilian 🇧🇷 web developer, currently working as a Python developer at [Clevertech](https://www.linkedin.com/company/clevertech/)
 
 <div>
     <a href="https://www.python.org" target="_blank"> 
