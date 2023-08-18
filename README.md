@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-My name is Gabriel and I'm a Brazilian 🇧🇷 web developer, currently working as a Python developer at [Clevertech](https://www.linkedin.com/company/clevertech/)
+My name is Gabriel and I'm a Brazilian 🇧🇷 developer, currently working as a Data Engineer at [Clevertech](https://www.linkedin.com/company/clevertech/)
 
 <div>
     <a href="https://www.python.org" target="_blank"> 
@@ -9,20 +9,17 @@ My name is Gabriel and I'm a Brazilian 🇧🇷 web developer, currently working
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"alt="javascript" width="40" height="40"/> 
     </a>
-    <a href="https://www.java.com" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
     <a href="https://nodejs.org" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  alt="nodejs" width="40" height="40"/> 
     </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a>
-    <a href="https://spring.io/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-    </a> 
     <a href="https://nestjs.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
+    </a> 
+    <a href="https://nextjs.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
     </a> 
     <a href="https://www.djangoproject.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
